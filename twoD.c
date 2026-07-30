@@ -26,6 +26,6 @@ int main(){
         printf("\n");
     }
     printf("The Sum Is: %d",sum);
-getchar();
+
 return 0;
 }
